@@ -1,0 +1,13 @@
+.site {
+  width: 100%;
+  text-align: center;
+}
+.imgBox{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.imgBox img{
+  width: 10%;
+}
